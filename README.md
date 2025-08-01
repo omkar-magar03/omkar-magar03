@@ -11,7 +11,6 @@ I'm a developer with a passion for Artificial Intelligence, Machine Learning and
 ![Streamlit](https://img.shields.io/badge/Streamlit-blue?style=for-the-badge&logo=streamlit)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F0?style=for-the-badge&logo=tensorflow)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-yellow?style=for-the-badge)
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -21,7 +20,6 @@ I'm a developer with a passion for Artificial Intelligence, Machine Learning and
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0078D4?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
 ![Google Cloud Platform (GCP) - Gen AI](https://img.shields.io/badge/Google%20Cloud%20Platform%20%28GCP%29-GenAI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
