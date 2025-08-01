@@ -16,7 +16,7 @@ I'm a developer with a passion for Artificial Intelligence, Machine Learning and
 Here are some of the projects I've worked on:-
 
 -   **[AI-Models-and-Gen-AI](https://github.com/omkar-magar03/AI-Models-and-Gen-AI):** My explorations into various AI models, AI Agents and the exciting field of Generative AI.
--   **[Deep-Learning-With-PyTorch](https://github.com/omkar-magar03/Deep-Learning-With-PyTorch):** A collection of notebooks and projects exploring deep learning concepts with PyTorch.
+-   **[Deep-Learning-With-PyTorch](https://github.com/omkar-magar03/Deep-Learning-With-PyTorch):** A collection of notebooks exploring deep learning concepts with PyTorch.
 -   **[titanic-kaggle](https://github.com/omkar-magar03/titanic-kaggle):** My approach to solving the classic Kaggle problem of predicting survival on the Titanic.
 -   **[hackerrank](https://github.com/omkar-magar03/hackerrank):** A repository containing my solutions to various problems on HackerRank.
 
@@ -65,6 +65,8 @@ Here are some of the projects I've worked on:-
 ![Google Cloud Platform (GCP) - Gen AI](https://img.shields.io/badge/Google%20Cloud%20Platform%20%28GCP%29-GenAI-4285F4?logo=googlecloud&logoColor=white)
 
 ### 🔗 Connect with Me
+
+Feel free to reach out if you have any questions or collaboration ideas!
 
 📫 **Email:** omkar.magar.in@gmail.com
 
